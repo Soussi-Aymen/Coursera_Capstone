@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository will contain my work on the capstone project
+The capstone project will recommend you the best neighborhoods who are in line for your needs based on your characteristics and the location you want
